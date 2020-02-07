@@ -38,6 +38,7 @@ def decision():
 	elif:
 		score += -1
 	stage += 1
+	file.close
 def game():
 	text()
 	decision()
