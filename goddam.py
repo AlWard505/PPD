@@ -31,7 +31,7 @@ def decision():
 	des1 = file.readline()
 	des2 = file.readline()
 	while x != "a" or x != b":
-		x = input("a) this choice\nb) this choice\n")
+		x = input("a) "des1"\nb) "des2"\n")
 		x = x.lower()
 	if a == "a":
 		score += 1
@@ -42,3 +42,5 @@ def decision():
 def game():
 	text()
 	decision()
+while stage != 4:
+	game()
