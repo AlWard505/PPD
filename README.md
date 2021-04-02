@@ -1,2 +1,2 @@
 # PPD Story 
-created as a choose your own adventure type thing
+to use this simply run the code and follow built in instructions 
